@@ -1,0 +1,51 @@
+# Build artifacts
+.libs
+*.lo
+*.la
+modules
+autom4te.cache
+build
+configure
+configure.ac
+config.h
+config.h.in
+config.log
+config.nice
+config.status
+config.cache
+acinclude.m4
+aclocal.m4
+install-sh
+libtool
+ltmain.sh
+Makefile
+Makefile.fragments
+Makefile.global
+Makefile.objects
+missing
+mkinstalldirs
+run-tests.php
+
+# Test artifacts
+tests/*.diff
+tests/*.exp
+tests/*.log
+tests/*.out
+tests/*.php
+tests/*.sh
+
+# IDE and system files
+.git
+.gitignore
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+.env
+
+# Documentation (keep in image for reference)
+# README.md
+# INSTALL.md
+
