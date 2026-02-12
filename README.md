@@ -1,5 +1,9 @@
 # Signalforge Container
 
+[![PHP 8.3+](https://img.shields.io/badge/PHP-8.3%2B-blue.svg)](https://php.net)
+[![PSR-11](https://img.shields.io/badge/PSR--11-compliant-brightgreen.svg)](https://www.php-fig.org/psr/psr-11/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A native PHP extension implementing a high-performance Dependency Injection Container with autowiring, singletons, and contextual bindings.
 
 ## What's Different

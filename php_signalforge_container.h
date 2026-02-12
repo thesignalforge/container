@@ -26,7 +26,7 @@
 extern zend_module_entry signalforge_container_module_entry;
 #define phpext_signalforge_container_ptr &signalforge_container_module_entry
 
-#define PHP_SIGNALFORGE_CONTAINER_VERSION "0.1.0"
+#define PHP_SIGNALFORGE_CONTAINER_VERSION "1.0.0"
 #define PHP_SIGNALFORGE_CONTAINER_EXTNAME "signalforge_container"
 
 /* Export/visibility macros for shared library symbols */
